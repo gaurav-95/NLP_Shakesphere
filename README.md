@@ -1,3 +1,3 @@
-# xub-dsa
+# NLP NLTK
 
-Welcome to my repository, containing code and projects of various topics relevant to data science.
+Ngrams from Shakesphere text data
